@@ -10968,7 +10968,6 @@ header.masthead h1, header.masthead .h1 {
   height: 710px !important;
 }
 .swiper-slide{
-  background-color: #000;
   border-radius: 3%;
 }
 .swiper-slide img{
@@ -10977,7 +10976,6 @@ header.masthead h1, header.masthead .h1 {
   height: 17.6rem;
   object-fit: fit;
   border-radius: 3%; 
-  opacity: 0.8;
   cursor: pointer;
 }
 .swiper-slide figure{
